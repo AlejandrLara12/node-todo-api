@@ -45,3 +45,9 @@ console.log(obj.getTimestamp());
 `deleteOne`         will delete the first record that meet certain criteria
 
 `findOneAndDelete`  will delete the first record that meet certain criteria and will retrive the doc/record values
+
+
+## Updating Data
+
+[MongoDB API Doc](http://mongodb.github.io/node-mongodb-native/2.2/api/)
+[MongoDB API Doc: Update operators](https://docs.mongodb.com/manual/reference/operator/update/)
