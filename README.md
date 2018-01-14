@@ -38,4 +38,10 @@ console.log(obj.getTimestamp());
 ## Fetching Data
 
 
-## Setting up the Repo
+## Deleting Documents
+
+`deleteMany`        will delete all the records that meet certain criteria
+
+`deleteOne`         will delete the first record that meet certain criteria
+
+`findOneAndDelete`  will delete the first record that meet certain criteria and will retrive the doc/record values
